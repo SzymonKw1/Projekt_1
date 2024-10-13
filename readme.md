@@ -1,3 +1,0 @@
-Szymon 
-
-Temat: Dunno
