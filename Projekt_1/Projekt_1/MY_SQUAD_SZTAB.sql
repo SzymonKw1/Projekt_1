@@ -2,7 +2,7 @@
 -- Query: SELECT * FROM my_squad.`sztab szkoleniowy`
 LIMIT 0, 1000
 
--- Date: 2024-10-26 13:14
+
 */
 INSERT INTO `` (`Imię i nazwisko`,`Funkcja`,`Staż pracy(w latach)`) VALUES ('Jose Mourinho','Trener główny',2);
 INSERT INTO `` (`Imię i nazwisko`,`Funkcja`,`Staż pracy(w latach)`) VALUES ('Fabrizio Romano','Rzecznik prasowy ',5);
