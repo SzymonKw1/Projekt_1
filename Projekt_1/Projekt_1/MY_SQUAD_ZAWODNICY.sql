@@ -2,7 +2,7 @@
 -- Query: SELECT * FROM my_squad.zawodnicy
 LIMIT 0, 1000
 
--- Date: 2024-10-26 13:18
+
 */
 INSERT INTO `` (`Imię i nazwisko`,`Pozycja`,`Numer`,`Wiek`) VALUES ('Francesco Toldo','Bramkarz',1,39);
 INSERT INTO `` (`Imię i nazwisko`,`Pozycja`,`Numer`,`Wiek`) VALUES ('Ivan Cordoba','Obrońca',2,34);
